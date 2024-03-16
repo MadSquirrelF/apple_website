@@ -50,6 +50,7 @@ const Model = () => {
     gsap.to('#heading', { y:0, opacity: 1})
   }, [])
 
+
   return (
     <div className="common-padding">
       <div className="screen-max-width">
